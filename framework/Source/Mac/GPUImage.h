@@ -102,6 +102,7 @@
 #import <GPUImage/GPUImageAdaptiveThresholdFilter.h>
 #import <GPUImage/GPUImageAverageLuminanceThresholdFilter.h>
 #import <GPUImage/GPUImageLuminanceThresholdFilter.h>
+#import <GPUImage/GPUImageSolarizeFilter.h>
 #import <GPUImage/GPUImageHalftoneFilter.h>
 #import <GPUImage/GPUImagePixellatePositionFilter.h>
 #import <GPUImage/GPUImagePolarPixellateFilter.h>
